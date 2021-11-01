@@ -17,7 +17,7 @@ echo "";
 <link href="styles.css" rel="stylesheet">
 
 <h3 >Welcome to your GCB Portal!</h3>
-<p >Visit GCB Homepage</p>
+<p style='font-size:smaller;' >Edem Kojo Agbakpe - 050918026</p>
 <ul>
 	<li><a href="update_pass_admin.php">Update your password</li>
 	<li><a href="create_employee_account.php">Create Employee Account</li>
