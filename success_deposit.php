@@ -2,7 +2,7 @@
 session_start();
 $balance=$_SESSION['balance'];
 
-echo "successfullu deposited!!";
+echo "Deposit Success!!";
 echo "<br>";
 echo "your current balance is ".$balance;
 ?>

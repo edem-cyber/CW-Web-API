@@ -11,3 +11,4 @@ $row=mysqli_fetch_assoc($result);
 echo $row['c_id']."  ".$row['c_name']." ".$row['c_balance'];
 
 ?>
+<link href="styles.css" rel="stylesheet">
